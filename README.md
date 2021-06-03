@@ -1,7 +1,7 @@
 # Heya, welcome!
 * A student
 * I’m interested in algorithmic problems
-* I’m currently learning _**C++**_, _**HTML**_, _**Shell**_ and _**Git**_
+* I have a good understanding on _**C/C++**_, _**Python**_, _**Shell**_
 * I can try to help with anything that involves my _languages_
 
 <!---
