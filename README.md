@@ -1,7 +1,7 @@
 # Heya, welcome!
 * A student
 * I’m interested in algorithmic problems
-* I have a good understanding on _**C/C++**_, _**Python**_, _**Shell**_
+* I have a good understanding on _**C/C++**_, _**Python**_, _**Shell**_, _**HTML/CSS/JS**_, _**SQL**_
 * I can try to help with anything that involves my _languages_
 
 <!---
