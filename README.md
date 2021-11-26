@@ -1,6 +1,6 @@
 # Heya, welcome!
 * A student
-* I’m interested in algorithmic problems, problem solving in general and Minecraft modding recently.
+* I’m interested in algorithmic problems and problem solving in general.
 * I have a good understanding on:
   *  _**C/C++**_
   *  _**Java**_
