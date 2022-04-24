@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Creating Robust Apps**
 
-- 💬 Ask me about **Anything related to OOP**
+- 💬 Ask me about **Anything related to OOP or System Design**
 
 - 📫 How to reach me **jormungandr@tutamail.com**
 
