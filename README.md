@@ -2,13 +2,7 @@
 <h3 align="center">A Student</h3>
 <br>
 
-- 🌱 I’m currently learning **Rust**
-
 - 👯 I’m looking to collaborate on **Interesting projects**
-
-- 🤝 I’m looking for help with **Creating Robust Apps**
-
-- 💬 Ask me about **Anything related to OOP**
 
 - 📫 How to reach me **jormungandr@tutamail.com**
 
